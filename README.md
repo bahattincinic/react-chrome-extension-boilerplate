@@ -22,13 +22,8 @@ Boilerplate for Chrome Extension React.js project
 ├── src
 │   ├── client.jsx                 # main app
 │   ├── images                     # app images, icons
-│   │   ├── icon-128.png
-│   │   ├── icon-16.png
-│   │   └── icon-48.png
 │   ├── index.html                 # main app html
 │   ├── pages                      # Application pages
-│   │   ├── Login.jsx
-│   │   └── TicketList.jsx
 │   ├── routes.jsx                 # routing list
 │   ├── store                      # Redux store
 │   │   ├── actions                # Events (for example: add task)
@@ -37,13 +32,8 @@ Boilerplate for Chrome Extension React.js project
 │   │   │   └── ActionTypes.js
 │   │   └── reducers               # manage state changes
 │   │       ├── index.js
-│   │       └── tickets.js
 │   └── styles                     # App style
-│       ├── Login.less
-│       ├── Main.less
-│       └── Tickets.less
 ├── tests                         # unit tests
-│   └── login.test.js
 ├── webpack.debug.js              # dev. webpack conf
 ├── webpack.event.js              # prod webpack conf
 └── webpack.popup.js              # prod webpack conf
