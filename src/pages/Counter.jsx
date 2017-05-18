@@ -5,7 +5,7 @@ import Header from '../components/Header';
 import * as actions from '../store/actions';
 
 
-class Example extends Component {
+class Counter extends Component {
 
   render() {
     return (
@@ -39,4 +39,4 @@ const mapDispatchToProps = dispatch => ({
 export default connect(
   mapStateToProps,
   mapDispatchToProps,
-)(Example);
+)(Counter);

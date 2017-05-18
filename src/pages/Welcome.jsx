@@ -18,7 +18,7 @@ class Welcome extends Component {
 
           <div>
             <button onClick={() => {
-              this.props.dispatch(changePageTo('/example'));
+              this.props.dispatch(changePageTo('/counter'));
             }}>
               Go to the example page
             </button>

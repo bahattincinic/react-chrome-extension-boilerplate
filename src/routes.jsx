@@ -1,10 +1,10 @@
 import React from 'react';
-import Example from './pages/Example';
+import Counter from './pages/Counter';
 import Welcome from './pages/Welcome';
 
 
 const routes = [
-  ['/example', <Example />],
+  ['/counter', <Counter />],
   ['/', <Welcome />],
 ];
 
