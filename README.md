@@ -3,13 +3,17 @@ Boilerplate for Chrome Extension React.js project
 
 ### Technologies
 
-- `View Library:` [React](https://facebook.github.io/react/)
-- `State Management:` [Redux](http://redux.js.org/)
-- `Routing:` [Universal-router](https://github.com/kriasoft/universal-router)
-- `Unit Testing:` [Jest](https://facebook.github.io/jest/), [enzyme](https://github.com/airbnb/enzyme)
-- `Development Environment:` [Webpack](https://webpack.github.io/), [Gulp](http://gulpjs.com/), [Babel](https://babeljs.io/)
-- `Code Quality:` [Eslint](http://eslint.org/), [Flow](https://flow.org/)
-- `Styling`: [Less](http://lesscss.org/)
+- [React](https://facebook.github.io/react/)
+- [Redux](http://redux.js.org/)
+- [Universal-router](https://github.com/kriasoft/universal-router)
+- [Jest](https://facebook.github.io/jest/)
+- [enzyme](https://github.com/airbnb/enzyme)
+- [Webpack](https://webpack.github.io/)
+- [Gulp](http://gulpjs.com/)
+- [Babel](https://babeljs.io/)
+- [Eslint](http://eslint.org/),
+- [Flow](https://flow.org/)
+- [Less](http://lesscss.org/)
 
 
 ### Project Structure
