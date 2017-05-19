@@ -11,7 +11,7 @@ Boilerplate for Chrome Extension React.js project
 - [Webpack](https://webpack.github.io/)
 - [Gulp](http://gulpjs.com/)
 - [Babel](https://babeljs.io/)
-- [Eslint](http://eslint.org/),
+- [Eslint](http://eslint.org/)
 - [Flow](https://flow.org/)
 - [Less](http://lesscss.org/)
 
