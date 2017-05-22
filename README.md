@@ -1,5 +1,5 @@
 # react-chrome-extension-boilerplate
-Boilerplate for Chrome Extension React.js project
+Chrome Extension Boilerplate for React.js
 
 ### Technologies
 
