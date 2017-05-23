@@ -149,6 +149,6 @@ Only Production build can be run in chrome extension.
 
 ### Chrome Extension File Types
 
-- `popup.js:` Popup Page UI
-- `event.js` Background Job. It can manage Redux states.
-- `content.js` Chrome only accept dom manipulation by content.js.
+- `popup.js:` Page UI
+- `event.js` Background Job. It manages Redux states.
+- `content.js` Chrome only accept dom manipulation from content.js.
