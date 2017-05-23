@@ -145,11 +145,10 @@ Only Production build can be run in chrome extension.
 - Development build only works on browser.
 - Production build only works on chrome extension.
 - `react-chrome-redux` does not work without production build.
-- `redux-logger` does not work without development build. (`debugging logger`)
 
 
 ### Chrome Extension File Types
 
 - `popup.js:` Popup Page UI
-- `event.js` Background Job. We uses `event.js` for Redux and event management.
+- `event.js` Background Job. It can manage Redux states.
 - `content.js` Chrome only accept dom manipulation by content.js.
